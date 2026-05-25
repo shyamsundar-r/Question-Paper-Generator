@@ -49,6 +49,7 @@ if st.button(
     )
 
     # PART A
+    st.header("PART A")
     question_no = 1
 
     for unit_data in paper["PartA"]:
