@@ -30,6 +30,13 @@ def export_pdf(paper):
         Spacer(1, 20)
     )
 
+    elements.append(
+        Paragraph(
+            "PART A",
+            styles["Heading2"]
+        )
+    )
+
     question_no = 1
 
     # PART A
