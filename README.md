@@ -77,7 +77,7 @@ A102,1,A,Define Swarm Intelligence.
 B101,1,B,Explain Particle Swarm Optimization.
 B102,1,B,Discuss Ant Colony Optimization.
 C101,1,C,Explain Artificial Bee Colony Algorithm.
-
+```
 ## Installation
 
 ### Clone the Repository
@@ -86,7 +86,7 @@ C101,1,C,Explain Artificial Bee Colony Algorithm.
 git clone <repository-url>
 ```
 
-## Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
